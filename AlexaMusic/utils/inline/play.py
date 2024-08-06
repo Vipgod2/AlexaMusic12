@@ -1,4 +1,4 @@
-# Copyright (C) 2024 by Alexa_Help @ Github, < https://github.com/TheTeamAlexa >
+# Copyright (C) 2024 by Malayalam_Chatting @ Github, < https://github.com/TheTeamAlexa >
 # Subscribe On YT < Jankari Ki Duniya >. All rights reserved. © Alexa © Yukki.
 
 """"
@@ -60,7 +60,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 text=_["PL_B_3"],
                 callback_data=f"PanelMarkup {videoid}|{chat_id}",
             ),
-            InlineKeyboardButton(text="ᴀʟᴇxᴀ ᴄʜᴀᴛ 💌", url=f"https://t.me/Alexa_Help"),
+            InlineKeyboardButton(text="ᴀʟᴇxᴀ ᴄʜᴀᴛ 💌", url=f"https://t.me/Malayalam_Chatting"),
         ],
         [
             InlineKeyboardButton(
@@ -95,7 +95,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 text=_["PL_B_3"],
                 callback_data=f"PanelMarkup None|{chat_id}",
             ),
-            InlineKeyboardButton(text="ᴀʟᴇxᴀ ᴄʜᴀᴛ 💌", url=f"https://t.me/Alexa_Help"),
+            InlineKeyboardButton(text="ᴀʟᴇxᴀ ᴄʜᴀᴛ 💌", url=f"https://t.me/Malayalam_Chatting"),
         ],
     ]
     return buttons
@@ -120,7 +120,7 @@ def stream_markup(_, videoid, chat_id):
                 text=_["PL_B_3"],
                 callback_data=f"PanelMarkup None|{chat_id}",
             ),
-            InlineKeyboardButton(text="ᴀʟᴇxᴀ ᴄʜᴀᴛ 💌", url=f"https://t.me/Alexa_Help"),
+            InlineKeyboardButton(text="ᴀʟᴇxᴀ ᴄʜᴀᴛ 💌", url=f"https://t.me/Malayalam_Chatting"),
         ],
     ]
     return buttons

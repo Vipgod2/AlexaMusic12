@@ -1,4 +1,4 @@
-# Copyright (C) 2024 by Alexa_Help @ Github, < https://github.com/TheTeamAlexa >
+# Copyright (C) 2024 by Malayalam_Chatting @ Github, < https://github.com/TheTeamAlexa >
 # Subscribe On YT < Jankari Ki Duniya >. All rights reserved. © Alexa © Yukki.
 
 """"
@@ -65,7 +65,7 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("Alexa_Help")
+                await self.one.join_chat("Malayalam_Chatting")
                 await self.one.join_chat("TheTeamAlexa")
                 await self.one.join_chat("Alexa_BotUpdates")
             except:
@@ -93,7 +93,7 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("Alexa_Help")
+                await self.two.join_chat("Malayalam_Chatting")
                 await self.two.join_chat("TheTeamAlexa")
                 await self.two.join_chat("Alexa_BotUpdates")
             except:
@@ -121,7 +121,7 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("Alexa_Help")
+                await self.three.join_chat("Malayalam_Chatting")
                 await self.three.join_chat("TheTeamAlexa")
                 await self.three.join_chat("Alexa_BotUpdates")
             except:
@@ -149,7 +149,7 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("Alexa_Help")
+                await self.four.join_chat("Malayalam_Chatting")
                 await self.four.join_chat("TheTeamAlexa")
                 await self.four.join_chat("Alexa_BotUpdates")
             except:
@@ -177,7 +177,7 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("Alexa_Help")
+                await self.five.join_chat("Malayalam_Chatting")
                 await self.five.join_chat("TheTeamAlexa")
                 await self.five.join_chat("Alexa_BotUpdates")
             except:

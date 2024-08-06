@@ -1,4 +1,4 @@
-# Copyright (C) 2021-2022 by Alexa_Help @ Github, < https://github.com/TheTeamAlexa >
+# Copyright (C) 2021-2022 by Malayalam_Chatting @ Github, < https://github.com/TheTeamAlexa >
 # Subscribe On YT < Jankari Ki Duniya >. All rights reserved. © Alexa © Yukki.
 
 """"
@@ -49,7 +49,7 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Alexa_BotUpdates")
 
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Alexa_Help")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Malayalam_Chatting")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 

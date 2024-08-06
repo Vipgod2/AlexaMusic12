@@ -1,4 +1,4 @@
-# Copyright (C) 2024 by Alexa_Help @ Github, < https://github.com/TheTeamAlexa >
+# Copyright (C) 2024 by Malayalam_Chatting @ Github, < https://github.com/TheTeamAlexa >
 # Subscribe On YT < Jankari Ki Duniya >. All rights reserved. © Alexa © Yukki.
 
 """"
@@ -28,7 +28,7 @@ def song_markup(_, vidid):
         [
             InlineKeyboardButton(
                 text="🌻 sᴜᴩᴩᴏʀᴛ 🌻",
-                url="https://t.me/Alexa_Help",
+                url="https://t.me/Malayalam_Chatting",
             ),
             InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close"),
         ],
