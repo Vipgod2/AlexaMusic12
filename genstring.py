@@ -2,8 +2,8 @@
 # Copyright (C) 2021-2022 by Malayalam_Chatting@Github, < https://github.com/Jankarikiduniya >.
 # A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
 
-# Kanged By © @Dr_Asad_Ali
-# Rocks © @Shayri_Music_Lovers
+# Kanged By © @FukOfFBich
+# Rocks © @Malayalam_Chatting_Links
 # Owner Asad Ali
 # Harshit Sharma
 # All rights reserved. © Alisha © Alexa © Yukki

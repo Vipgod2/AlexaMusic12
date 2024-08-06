@@ -2,7 +2,7 @@
 
 <h4 align="center">"Introducing Alexa Music – your smart, powerful, and simple bot for seamless audio and video playback on Telegram. Written in Python with the latest Pyrogram, Alexa Music delivers a superior entertainment experience. Upgrade now for optimal performance and a new level of Telegram enjoyment."<br> ... Working With Pyrogram Latest Version...</h4>
 
-<p align="center"><a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/f6064bc90cc76e59015b2.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/FukOfFBich"><img src="https://telegra.ph/file/f6064bc90cc76e59015b2.jpg" width="400"></a></p>
 
 <p align="center">
     <a href="https://github.com/TheTeamAlexa/AlexaMusic"> <img src="https://img.shields.io/github/repo-size/TheTeamAlexa/AlexaMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -106,7 +106,7 @@ Through this repository, we hope to share our passion for music and innovation w
     
 <summary><b>sᴄᴀʟɪɴɢᴏ</b></summary>
 <br>
-ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ ᴀʟᴇxᴀ ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ @ITZ-ZAID
+ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ ησɾα ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ @ITZ-ZAID
         
 <p><a href="https://my.scalingo.com/deploy?template=https://github.com/TheTeamAlexa/AlexaMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
 
@@ -129,7 +129,7 @@ Through this repository, we hope to share our passion for music and innovation w
 > ʙʏ sᴇᴛᴛɪɴɢ ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ʟᴏɢs ᴏғ ʏᴏᴜʀ ʜᴇʀᴏᴋᴜ ᴀᴘᴘ, sᴇᴛ ᴠᴀʀ, ᴇᴅɪᴛ ᴠᴀʀ, ᴅᴇʟᴇᴛᴇ ᴠᴀʀs , ᴄʜᴇᴄᴋ ᴅʏɴᴏ ᴜsᴀɢᴇ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇ ʙᴏᴛ. 
 > ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ᴀʀᴇ ɴᴏᴛ ᴍᴀɴᴅᴀᴛᴏʀʏ, ʏᴏᴜ ᴄᴀɴ ʟᴇᴀᴠᴇ ᴛʜᴇᴍ ʙʟᴀɴᴋ ᴛᴏᴏ. 
     
-<h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴀʟᴇxᴀ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
+<h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ησɾα ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
 <p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FTheTeamAlexa%2FAlexaMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
 
 <h4>ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ɪꜰ ʏᴏᴜ ᴀʀᴇ ꜰᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴏʀ  ᴀᴄᴄᴏᴜɴᴛ sᴜsᴘᴇɴsɪᴏɴ ɪssᴜᴇ ᴛᴏ ʙʏᴘᴀss ᴀɴʏ ʀᴇsᴛʀɪᴄᴛɪᴏɴ ᴏɴ ʜᴇʀᴏᴋᴜ ᴏʀ ʀᴀɪʟᴡᴇʏ</h4>    
@@ -142,7 +142,7 @@ Through this repository, we hope to share our passion for music and innovation w
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
+- [♩♪𓆩᪵   ΛĿΛИ ᭄𝙒𝞚𝙇𝙆𝞝𝙍⎯᳝֟⎯‌ꭙ༈┤🇦🇪](https://t.me/FukOfFBich)
 - [ʟᴏɢɪ ʟᴀʙ](https://github.com/LOGI-LAB)
 - [ʜᴀʀsʜɪᴛ](https://t.me/HarshitSharma361)
 - [ᴋsᴋ](https://github.com/KSKOP69) - For upgrading Alexa to Pyrogram latest version.
@@ -165,8 +165,8 @@ Through this repository, we hope to share our passion for music and innovation w
 <br>
 
 # ❤️ Support<
-<a href="https://t.me/Alexa_BotUpdates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Shayri_Music_Lovers"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Malayalam_Chatting_Links"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Malayalam_Chatting_Links"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 <a href="https://t.me/Give_Me_Heart"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
 <a href="https://t.me/Malayalam_Chatting"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
 
@@ -179,7 +179,7 @@ Through this repository, we hope to share our passion for music and innovation w
 <summary><b>ʟɪʙʀᴀʀɪᴇs</b></summary>
 <br>
 
-ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ ᴀʟᴇxᴀ:
+ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ ησɾα:
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)

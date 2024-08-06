@@ -52,7 +52,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text=" ᴏᴡɴᴇʀ 💞", url=f"https://t.me/Jankari_Ki_Duniya"
+                text=" ᴏᴡɴᴇʀ 💞", url=f"https://t.me/FukOfFBich"
             ),
         ],
         [
@@ -60,11 +60,11 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 text=_["PL_B_3"],
                 callback_data=f"PanelMarkup {videoid}|{chat_id}",
             ),
-            InlineKeyboardButton(text="ᴀʟᴇxᴀ ᴄʜᴀᴛ 💌", url=f"https://t.me/Malayalam_Chatting"),
+            InlineKeyboardButton(text="ησɾα ᴄʜᴀᴛ 💌", url=f"https://t.me/Malayalam_Chatting"),
         ],
         [
             InlineKeyboardButton(
-                text=f"☀ ᴀʟᴇxᴀ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ☀",
+                text=f"☀ ησɾα ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ☀",
                 url=f"https://t.me/Alexa_ManagementBot",
             )
         ],
@@ -87,7 +87,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ 💞", url=f"https://t.me/Jankari_Ki_Duniya"
+                text="ᴏᴡɴᴇʀ 💞", url=f"https://t.me/FukOfFBich"
             ),
         ],
         [
@@ -95,7 +95,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 text=_["PL_B_3"],
                 callback_data=f"PanelMarkup None|{chat_id}",
             ),
-            InlineKeyboardButton(text="ᴀʟᴇxᴀ ᴄʜᴀᴛ 💌", url=f"https://t.me/Malayalam_Chatting"),
+            InlineKeyboardButton(text="ησɾα ᴄʜᴀᴛ 💌", url=f"https://t.me/Malayalam_Chatting"),
         ],
     ]
     return buttons
@@ -112,7 +112,7 @@ def stream_markup(_, videoid, chat_id):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ 💞", url=f"https://t.me/Jankari_Ki_Duniya"
+                text="ᴏᴡɴᴇʀ 💞", url=f"https://t.me/FukOfFBich"
             ),
         ],
         [
@@ -120,7 +120,7 @@ def stream_markup(_, videoid, chat_id):
                 text=_["PL_B_3"],
                 callback_data=f"PanelMarkup None|{chat_id}",
             ),
-            InlineKeyboardButton(text="ᴀʟᴇxᴀ ᴄʜᴀᴛ 💌", url=f"https://t.me/Malayalam_Chatting"),
+            InlineKeyboardButton(text="ησɾα ᴄʜᴀᴛ 💌", url=f"https://t.me/Malayalam_Chatting"),
         ],
     ]
     return buttons

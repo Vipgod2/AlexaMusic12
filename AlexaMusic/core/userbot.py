@@ -67,7 +67,7 @@ class Userbot(Client):
             try:
                 await self.one.join_chat("Malayalam_Chatting")
                 await self.one.join_chat("TheTeamAlexa")
-                await self.one.join_chat("Alexa_BotUpdates")
+                await self.one.join_chat("Malayalam_Chatting_Links")
             except:
                 pass
             assistants.append(1)
@@ -95,7 +95,7 @@ class Userbot(Client):
             try:
                 await self.two.join_chat("Malayalam_Chatting")
                 await self.two.join_chat("TheTeamAlexa")
-                await self.two.join_chat("Alexa_BotUpdates")
+                await self.two.join_chat("Malayalam_Chatting_Links")
             except:
                 pass
             assistants.append(2)
@@ -123,7 +123,7 @@ class Userbot(Client):
             try:
                 await self.three.join_chat("Malayalam_Chatting")
                 await self.three.join_chat("TheTeamAlexa")
-                await self.three.join_chat("Alexa_BotUpdates")
+                await self.three.join_chat("Malayalam_Chatting_Links")
             except:
                 pass
             assistants.append(3)
@@ -151,7 +151,7 @@ class Userbot(Client):
             try:
                 await self.four.join_chat("Malayalam_Chatting")
                 await self.four.join_chat("TheTeamAlexa")
-                await self.four.join_chat("Alexa_BotUpdates")
+                await self.four.join_chat("Malayalam_Chatting_Links")
             except:
                 pass
             assistants.append(4)
@@ -179,7 +179,7 @@ class Userbot(Client):
             try:
                 await self.five.join_chat("Malayalam_Chatting")
                 await self.five.join_chat("TheTeamAlexa")
-                await self.five.join_chat("Alexa_BotUpdates")
+                await self.five.join_chat("Malayalam_Chatting_Links")
             except:
                 pass
             assistants.append(5)
