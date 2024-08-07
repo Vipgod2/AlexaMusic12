@@ -64,8 +64,8 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text=f"☀ ησɾα ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ☀",
-                url=f"https://t.me/Alexa_ManagementBot",
+                text=f"☀ 𝓦𝓞𝓡𝓛𝓓 𝓦𝓘𝓓𝓔 𝓜𝓞𝓥𝓘𝓔𝓢 ☀",
+                url=f"https://t.me/WWM_NEWBot",
             )
         ],
     ]
